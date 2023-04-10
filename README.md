@@ -1,5 +1,6 @@
-# E-commerce
 Final project of Front-End development course 
 
-#Live Server
+# Live Server
+
+https://zuhairseiba.github.io/products
 
