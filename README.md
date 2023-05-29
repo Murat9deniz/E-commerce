@@ -2,4 +2,4 @@ Final project of Front-End development course
 
 # Live Server
 
-https://zuhairseiba.github.io/E-commerce/
+https://murat9deniz.github.io
